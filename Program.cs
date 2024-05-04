@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            
+            // Hoang Khoi Gia Nguyen
+            // Computer Programming 1 CSI 120
+            // Assignment 2
         }
 
         public static void Problem1()
